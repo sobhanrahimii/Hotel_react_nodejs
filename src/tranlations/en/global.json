@@ -1,0 +1,109 @@
+{
+  "nav": {
+    "login": "register",
+    "register": "login"
+  },
+  "header": {
+    "AdultOption": "Adult",
+    "ChildrenOption": "Children",
+    "RoomOption": "Room",
+    "DestinationPlaceholder": "Where are you going?",
+    "searchBtn": "Search",
+    "title": "A lifetime of discounts? It's Genius.",
+    "desc": "Get rewarded for your travels – unlock instant savings of 10% or more with a free Lamabooking account",
+    "Flights": "Flights",
+    "Carrentals": "Car rentals",
+    "Attractions": "Attractions",
+    "Airporttaxis": "Airport taxis",
+    "Stays": "Stays",
+    "FlightsExport": "International flights"
+  },
+  "home": {
+    "title1": "Browse by property type",
+    "title2": "Homes guests love"
+  },
+  "featured": {
+    "featuredTitles1": "Dublin",
+    "featuredTitles1prop": "123 properties",
+    "featuredTitles2": "Reno",
+    "featuredTitles2prop": "533 properties",
+    "featuredTitles3": "Austin",
+    "featuredTitles3prop": "532 properties"
+  },
+  "propList": {
+    "Hotels": "Hotels",
+    "count": "hotels",
+    "Apartments": "Apartments",
+    "Cabins": "Cabins",
+    "Villas": "Villas",
+    "Resorts": "Resorts"
+  },
+  "featuedProp": {
+    "featuedPropName1": "Aparthotel Stare Miasto",
+    "featuedPropCity1": "Madrid",
+    "featuedPropPrice1": "Starting from $120",
+    "featuedPropRating1": "Excellent",
+
+    "featuedPropName2": "Comfort Suites Airport",
+    "featuedPropCity2": "Austin",
+    "featuedPropPrice2": "Starting from $140",
+    "featuedPropRating2": "Exceptional",
+
+    "featuedPropName3": "Four Seasons Hotel",
+    "featuedPropCity3": "Lisbon",
+    "featuedPropPrice3": "Starting from $99",
+    "featuedPropRating3": "Excellent",
+
+    "featuedPropName4": "Hilton Garden Inn",
+    "featuedPropCity4": "Berlin",
+    "featuedPropPrice4": "Starting from $105",
+    "featuedPropRating4": "Excellent"
+  },
+  "mailList": {
+    "title": "Save time, save money!",
+    "desc": "ign up and we'll send the best deals to you",
+    "Subscribe": "Subscribe",
+    "placeholder": "Email..."
+  },
+  "hotelList": {
+    "searchBtn": "search",
+    "Destination": "Destination",
+    "Check-in-Date": "Check-in Date",
+    "Options": "Options"
+  },
+  "footer": {
+    "link1": "Countries",
+    "link2": "Regions",
+    "link3": "Cities",
+    "link4": "Districts",
+    "link5": "Airports ",
+    "link6": "Hotels",
+
+    "link7": "Homes",
+    "link8": "Apartments",
+    "link9": "Resorts",
+    "link10": "Villas",
+    "link11": "Hostels",
+    "link12": "Guest houses",
+
+    "link13": "Unique places to stay",
+    "link14": "Reviews",
+    "link15": "Unpacked: Travel articles",
+    "link16": "Travel communities",
+    "link17": "Seasonal and holiday deals",
+
+    "link18": "Car rental",
+    "link19": "Flight Finder",
+    "link20": "Restaurant reservations",
+    "link21": "Travel Agents",
+
+    "link22": "Curtomer Service",
+    "link23": "Partner Help",
+    "link24": "Careers",
+    "link25": "Sustainability",
+    "link26": "Press center",
+    "link27": "Safety Resource Center",
+    "link28": "Investor relations",
+    "link29": "Terms & conditions"
+  }
+}
